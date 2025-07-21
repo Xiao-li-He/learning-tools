@@ -7,3 +7,6 @@
 [submodule "exercises/learning-cxx"]
 	path = exercises/learning-cxx
 	url = https://github.com/wawahejun/learning-cxx
+[submodule "exercises/learn-cxx"]
+	path = exercises/learn-cxx
+	url = https://github.com/Xiao-li-He/learning-cxx.git
